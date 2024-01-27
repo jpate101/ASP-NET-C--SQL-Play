@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\qut-web_dev_bootcamp\\Server_C#_SQL_test\\ASP.NET-Server-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\ASP-NET-C--SQL-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj": {}
   },
   "projects": {
-    "Y:\\qut-web_dev_bootcamp\\Server_C#_SQL_test\\ASP.NET-Server-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\ASP-NET-C--SQL-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\qut-web_dev_bootcamp\\Server_C#_SQL_test\\ASP.NET-Server-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\ASP-NET-C--SQL-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj",
         "projectName": "API_TEMP_3",
-        "projectPath": "Y:\\qut-web_dev_bootcamp\\Server_C#_SQL_test\\ASP.NET-Server-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\ASP-NET-C--SQL-Play\\API_TEMP_3\\API_TEMP_3\\API_TEMP_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "Y:\\qut-web_dev_bootcamp\\Server_C#_SQL_test\\ASP.NET-Server-Play\\API_TEMP_3\\API_TEMP_3\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\ASP-NET-C--SQL-Play\\API_TEMP_3\\API_TEMP_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
